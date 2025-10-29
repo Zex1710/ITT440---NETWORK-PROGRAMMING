@@ -13,9 +13,9 @@ UGUGAGA BLABLABLA
 
 ## TOOL SELECTION
 - Apache JMeter
-<img width="431" height="121" alt="image" src="https://github.com/user-attachments/assets/c6326319-eddc-4f09-ae3d-a75ac4c62e11" />
-<img width="421" height="236" alt="image" src="https://github.com/user-attachments/assets/ecf96e11-7cc2-4d95-8fdf-feaa8c49c6b3" />
-
+<img width="378" height="173" alt="image-removebg-preview (2)" src="https://github.com/user-attachments/assets/acd5f43f-02a9-4d83-a8a4-c3ef369ce28d" />
+- UBuntu Linux             
+<img width="666" height="374" alt="image-removebg-preview (3)" src="https://github.com/user-attachments/assets/1a615dc2-72fa-4aca-8559-a494f9f7357a" />
 
 
 ## KEY FEATURES OF JMETER
